@@ -4,10 +4,11 @@
 
 .bg-image-cust {
 background-image: url("background-blur-clean-clear-531880.jpg");
-height: 96vh;
+height: 80%;
 width: 100%;
 background-repeat: no-repeat;
 background-position: center;
+position: relative;
 }
 
 
@@ -15,7 +16,29 @@ background-position: center;
  background-color: #d6f49d8c;
 }
 
+.curry-font {
+  color: #EAD637;
+  background-color: #4c2b36b4;
+}
+
+
+.bg-image-grey {
+  background-color: #7c7c7c96;
+}
+
 .imgsize{
   height:69vh;
+}
+
+.vertical-center {
+  align-items: center;
+  display: flex;
+}
+
+
+.position-abs{
+  position: absolute;
+  top:47%;
+  left:11%
 }
 
