@@ -1,0 +1,21 @@
+.bg-eggplant {
+  background-color: #4c2b36d2;
+}
+
+.bg-image-cust {
+background-image: url("background-blur-clean-clear-531880.jpg");
+height: 96vh;
+width: 100%;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+
+.bg-image-curry {
+ background-color: #d6f49d8c;
+}
+
+.imgsize{
+  height:69vh;
+}
+
