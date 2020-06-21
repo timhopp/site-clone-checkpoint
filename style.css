@@ -17,8 +17,10 @@ position: relative;
 }
 
 .curry-font {
-  color: #EAD637;
-  background-color: #4c2b36b4;
+  color: #e2cf3b;
+  font-family: 'Staatliches', cursive;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  
 }
 
 
